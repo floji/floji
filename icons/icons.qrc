@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>rectangle.svg</file>
+    <file>select_arrow.png</file>
+</qresource>
+</RCC>
