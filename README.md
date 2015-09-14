@@ -1,5 +1,7 @@
 # floji
 
+[![Join the chat at https://gitter.im/floji/floji](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/floji/floji?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 floji is a flow chart creator written in C++14 using the [Qt Graphics View Framework][1].  
 The program is currently in an early development stage and does not offer installers.  
 The design will be inclined toward minimalism.  
