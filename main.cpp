@@ -12,8 +12,8 @@
 int main(int argc, char *argv[])
 {
     QApplication app(argc, argv);
-    MainWindow* win = new MainWindow();
-    win->setWindowTitle("floji");
-    win->showMaximized();
+    MainWindow win;
+    win.setWindowTitle("floji");
+    win.showMaximized();
     return app.exec();
 }
